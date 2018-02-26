@@ -1,4 +1,4 @@
-# I-Venue-CS353
+# I-Venue/CS353
 
 Bilkent University - CS353 Database Systems
 
