@@ -6,7 +6,7 @@ Description:
 
 Group Members:
 
-# -Göktuğ Özdoğan
-# -İlhami Kayacan Kaya
-# -İlhami Özer
-# -Seda Gülkesen
+ -Göktuğ Özdoğan
+ -İlhami Kayacan Kaya
+ -İlhami Özer
+ -Seda Gülkesen
