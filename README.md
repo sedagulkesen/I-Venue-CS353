@@ -1,12 +1,10 @@
 # I-Venue/CS353
-
 Bilkent University - CS353 Database Systems
 
-Description: 
+- Description:
 
-Group Members:
-
-Göktuğ Özdoğan
-İlhami Kayacan Kaya
-İlhami Özer
-Seda Gülkesen
+- Group Members:
+	- Göktuğ Özdoğan
+	- İlhami Kayacan Kaya
+	- İlhami Özer
+	- Seda Gülkesen
